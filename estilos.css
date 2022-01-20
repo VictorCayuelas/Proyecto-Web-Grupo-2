@@ -1,1 +1,323 @@
+body {
+  background-attachment: fixed;
+}
+
+.dropbtn {
+  background-color: #3e3e3e;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  font-family: "Century Gothic", Century Gothic;
+  font-weight: bold;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  font-family: "Century Gothic", Century Gothic;
+  font-weight: bold;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #BABABA}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #151515;
+}
+
+div.n0 {
+  background-color: #3e3e3e;
+  margin-top: -8px;
+  margin-left: -8px;
+  margin-right: -8px;
+  position: fixed;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 40px;
+  font-weight: bold;
+  text-shadow: 2px 3px 5px black;
+}
+
+div.n1 {
+  background-color: hsla(0, 100%, 0%, 0.8);
+  padding: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-family: "Century Gothic", Century Gothic;
+  word-spacing: 5px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+h2.n1 {
+  text-align: left;
+  color: #7CFC00;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 40px;
+  text-shadow: 2px 3px 5px black;
+}
+
+h2.n2 {
+  text-align: right;
+  color: #7CFC00;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 30px;
+  font-weight: bold;
+  margin-right: 40px;
+  text-shadow: 2px 3px 5px black;
+}
+
+h2.n3 {
+  text-align: center;
+  color: #7CFC00;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 25px;
+  font-weight: bold;
+  text-shadow: 2px 3px 5px black;
+}
+
+p.r {
+  color: #3e3e3e; 
+}
+
+p.n1 {
+  text-align: center;
+  color: white;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+p.n2 {
+  text-align: center;
+  color: white;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+div.n2 {
+  background-color: black;
+  padding: 3px;
+  font-family: "Century Gothic", Century Gothic;
+  word-spacing: 35px;
+  text-align: center;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: -8px
+}
+
+div.n3 {
+  background-color: hsla(0, 100%, 0%, 0.8);
+  padding: 20px;
+  font-family: "Century Gothic", Century Gothic;
+  word-spacing: 5px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+h2.n4 {
+  text-align: center;
+  color: #7CFC00;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: 2px 3px 5px black;
+}
+
+table.n1 {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+p.n3 {
+  text-align: center;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 40px;
+  font-style: italic;
+  color: #EABE3F;
+}
+
+div.n4 {
+  background-color: hsla(0, 100%, 0%, 0.8);
+  font-family: "Century Gothic", Century Gothic;
+  word-spacing: 5px;
+  text-align: center;
+  border-radius: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 20px;
+}
+
+h2.n5 {
+  text-align: center;
+  color: #7CFC00;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 2px 3px 5px black;
+}
+
+ul {
+  background: black;
+  padding: 20px;
+}
+
+ul li {
+  background: grey;
+  margin: 5px;
+}
+
+h2.n6 {
+  text-align: center;
+  color: #F30909;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h2.n7 {
+  text-align: center;
+  color: #F30909;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h2.n8 {
+  text-align: center;
+  color: #F30909;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+h2.n9 {
+  text-align: center;
+  color: #00B2FF;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h2.n10 {
+  text-align: center;
+  color: #00B2FF;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+h2.n11 {
+  text-align: center;
+  color: white;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: 2px 3px 5px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dropbtn {
+  background-color: #000000;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  font-family: "Century Gothic", Century Gothic;
+  font-weight: bold;
+  border-radius: 10px
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  font-family: "Century Gothic", Century Gothic;
+  font-weight: bold;
+  border-radius: 10px
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+	background-color: #BABABA;
+	border-radius: 10px
+	}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+div.n0 {
+  background-color: #000000;
+  margin-top: -8px;
+  margin-left: -8px;
+  margin-right: -8px;
+  position: fixed;
 
