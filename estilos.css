@@ -13,6 +13,17 @@ body {
   font-weight: bold;
 }
 
+.dropbtn1 {
+  background-color: #F30909;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  font-family: "Century Gothic", Century Gothic;
+  font-weight: bold;
+}
+
 .dropdown {
   position: relative;
   display: inline-block;
@@ -54,6 +65,8 @@ div.n0 {
   position: fixed;
 }
 
+	
+	
 h1 {
   text-align: center;
   color: white;
@@ -64,7 +77,7 @@ h1 {
 }
 
 div.n1 {
-  background-color: hsla(0, 100%, 0%, 0.8);
+  background-color:
   padding: 20px;
   margin-left: 40px;
   margin-right: 40px;
@@ -72,11 +85,12 @@ div.n1 {
   word-spacing: 5px;
   text-align: center;
   border-radius: 10px;
+  
 }
 
 h2.n1 {
   text-align: left;
-  color: #7CFC00;
+  color: #F30909;
   font-family: "Century Gothic", Century Gothic;
   font-size: 30px;
   font-weight: bold;
@@ -86,7 +100,7 @@ h2.n1 {
 
 h2.n2 {
   text-align: right;
-  color: #7CFC00;
+  color: #F30909;
   font-family: "Century Gothic", Century Gothic;
   font-size: 30px;
   font-weight: bold;
