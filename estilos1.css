@@ -2,7 +2,6 @@ body {
   background-attachment: fixed;
 }
 
-
 .dropbtn {
   background-color: #000000;
   color: white;
@@ -115,7 +114,7 @@ p.r {
 
 p.n1 {
   text-align: center;
-  color: white;
+  color: #A5A5A5;
   font-family: "Century Gothic", Century Gothic;
   font-size: 25px;
   font-weight: bold;
@@ -133,7 +132,7 @@ div.n2 {
   background-color: black;
   padding: 3px;
   font-family: "Century Gothic", Century Gothic;
-  word-spacing: 35px;
+  word-spacing: 15px;
   text-align: center;
   margin-left: -8px;
   margin-right: -8px;
@@ -227,7 +226,7 @@ h2.n8 {
 
 h2.n9 {
   text-align: center;
-  color: #00B2FF;
+  color: #F30909;
   font-family: "Century Gothic", Century Gothic;
   font-size: 30px;
   font-weight: bold;
@@ -235,7 +234,7 @@ h2.n9 {
 
 h2.n10 {
   text-align: center;
-  color: #00B2FF;
+  color: #F30909;
   font-family: "Century Gothic", Century Gothic;
   font-size: 25px;
   font-weight: bold;
@@ -248,4 +247,12 @@ h2.n11 {
   font-size: 30px;
   font-weight: bold;
   text-shadow: 2px 3px 5px black;
+}
+
+h2.nn {
+  text-align: center;
+  color: #A5A5A5;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 30px;
+  font-weight: bold;
 }
