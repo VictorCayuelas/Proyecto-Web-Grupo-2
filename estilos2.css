@@ -54,3 +54,12 @@ div.n0 {
   margin-right: -8px;
   position: fixed;
 }
+
+#caja {
+  background-color: lightwhite;
+  width: 700px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 20px;
+}
+
