@@ -256,3 +256,6 @@ h2.nn {
   font-size: 30px;
   font-weight: bold;
 }
+img.nos  {
+ filter: brightness(1%);
+}
