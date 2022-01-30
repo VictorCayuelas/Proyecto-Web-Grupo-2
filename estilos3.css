@@ -84,3 +84,6 @@ div.dos {
   margin-left: 160px;
   margin-right: 160px;
 }
+img.nos  {
+ filter: brightness(1%);
+}
