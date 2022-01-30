@@ -62,4 +62,7 @@ div.n0 {
   padding: 50px;
   margin: 20px;
 }
+img.nos  {
+ filter: brightness(1%);
+}
 
