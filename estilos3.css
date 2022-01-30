@@ -87,3 +87,23 @@ div.dos {
 img.nos  {
  filter: brightness(1%);
 }
+h2.v2 {
+  text-align: center;
+  color: #F30909;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 40px;
+  text-shadow: 2px 3px 5px black;
+}
+div.n2 {
+  background-color: black;
+  padding: 3px;
+  font-family: "Century Gothic", Century Gothic;
+  word-spacing: 35px;
+  text-align: center;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: -8px
+}
+
