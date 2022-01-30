@@ -364,6 +364,12 @@ tr.n2 {
   margin-right: 40px;
   text-shadow: 2px 3px 5px black;
 }
-
-
-
+h2.v2 {
+  text-align: center;
+  color: #F30909;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 40px;
+  text-shadow: 2px 3px 5px black;
+}
