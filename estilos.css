@@ -1,5 +1,6 @@
 body {
   background-attachment: fixed;
+ 
 }
 
 .dropbtn {
@@ -343,5 +344,26 @@ img.os  {
 
 img.os:hover {
    filter: brightness(150%);
+ }
+img.nos  {
+ filter: brightness(1%);
+}
+ 
+ 
+ table.ere {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+tr.n2 {
+  text-align: center;
+  color: #F30909;
+  font-family: "Century Gothic", Century Gothic;
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 40px;
+  text-shadow: 2px 3px 5px black;
+}
+
 
 
