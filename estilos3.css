@@ -107,5 +107,6 @@ div.n2 {
   margin-bottom: -8px
 }
 body{
-  background-image: url("images/fondo1MM.png")
+  background-image: url("images/fondo1MM.png");
+  background-attachment: fixed;
 }
